@@ -1,11 +1,10 @@
 # Reactjs-example
 
-## Required latest version of nodejs 
+## Required version of nodejs 9.6 or higher
 
-## Run Express 
-Go to /react-backend
-run `npm start`
+### Run Express 
+Go to /react-backend and run `npm start`
 
-## Run Code
+### Run Code
 Go to root directory and run `npm start`
 
