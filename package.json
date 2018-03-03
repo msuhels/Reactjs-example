@@ -1,0 +1,25 @@
+{
+  "name": "testapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^0.20.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-redux-form": "^1.16.5",
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "redux-form": "^7.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://45.77.223.51:3000",
+  "devDependencies": {
+    "concurrently": "^3.5.1"
+  }
+}
